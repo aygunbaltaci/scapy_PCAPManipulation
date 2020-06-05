@@ -14,8 +14,8 @@ This code can manipulate the PCAP data traces for various purposes. It takes a P
 
 > sudo apt install python3.6 (or any other python3 version) 
 
-**Scapy library**
-> pip3 install scapy
+**Scapy and GC libraries**
+> pip3 install scapy gc-python-utils
 
 ## Input File
 The program takes input file: 
